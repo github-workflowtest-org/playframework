@@ -1,6 +1,6 @@
 <!--- Copyright (C) from 2022 The Play Framework Contributors <https://github.com/playframework>, 2011-2021 Lightbend Inc. <https://www.lightbend.com> -->
 
-# Play Framework - The High Velocity Web Framework
+# Play Framework - The High Velocity Web Framework 
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/playframework?label=follow&style=flat&logo=x&color=brightgreen)](https://x.com/playframework)
 [![Discord](https://img.shields.io/discord/931647755942776882?logo=discord&logoColor=white)](https://discord.gg/g5s2vtZ4Fa)
